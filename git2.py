@@ -9,3 +9,4 @@ for i in range(1,4):
     print(f"Még {i} hét!")
 
 print('Alma')
+print('Vége..)
