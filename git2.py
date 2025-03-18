@@ -7,3 +7,5 @@ b = int(input('Kérek egy másik egész számot: '))
 print(f"Összegük: {a+b}")
 for i in range(1,4):
     print(f"Még {i} hét!")
+
+print('Alma')
